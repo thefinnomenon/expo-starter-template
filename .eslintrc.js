@@ -75,5 +75,8 @@ module.exports = {
     'import/prefer-default-export': 0,
     'react/destructuring-assignment': 0,
     '@typescript-eslint/no-var-requires': 0,
+    'react/require-default-props': 0,
+    'import/no-extraneous-dependencies': 0,
+    '@typescript-eslint/ban-types': 0,
   },
 };
