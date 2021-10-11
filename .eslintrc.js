@@ -74,5 +74,6 @@ module.exports = {
     'react/no-unescaped-entities': 0,
     'import/prefer-default-export': 0,
     'react/destructuring-assignment': 0,
+    '@typescript-eslint/no-var-requires': 0,
   },
 };
