@@ -20,3 +20,6 @@ web-build/
 # electron-webpack
 /dist
 # @end @expo/electron-adapter
+
+envs/.env.development
+envs/.env.production
